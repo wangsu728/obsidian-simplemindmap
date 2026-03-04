@@ -133,11 +133,6 @@ Image Hosting Help: [中文](./docs/imageHosting_zh.md) | [English](./docs/image
 - No support for standalone window editing
 - Some UI components don't sync with Obsidian theme colors
 
-# Future Plans
-
-- Mobile adaptation
-- Embed other documents in nodes via preview mode
-
 # Bugs/Suggestions/Requests
 
 Submit via [Issues](https://github.com/wanglin2/obsidian-simplemindmap/issues).

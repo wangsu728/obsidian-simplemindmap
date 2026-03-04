@@ -167,11 +167,6 @@ mind-map 也提供了独立的思维导图客户端，可以点击[客户端](ht
 - 不支持独立窗口编辑
 - 部分 UI 组件的主题色无法同步 Obsidian 的主题色
 
-# 未来
-
-- 适配手机端
-- 支持以预览模式在节点中嵌入其他文档
-
 # bug、建议、需求
 
 有任何bug、建议、需求反馈可在[Issues](https://github.com/wanglin2/obsidian-simplemindmap/issues)里提交。
