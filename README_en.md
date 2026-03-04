@@ -141,3 +141,9 @@ Image Hosting Help: [中文](./docs/imageHosting_zh.md) | [English](./docs/image
 # Bugs/Suggestions/Requests
 
 Submit via [Issues](https://github.com/wanglin2/obsidian-simplemindmap/issues).
+
+# Screenshots
+
+![](./docs/imgs/preview.png)
+
+![](./docs/imgs/preview2.png)

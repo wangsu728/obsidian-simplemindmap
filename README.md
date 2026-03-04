@@ -182,10 +182,16 @@ mind-map 也提供了独立的思维导图客户端，可以点击[客户端](ht
     <tr>
         <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
             <a href="#">
-                <img src="./gzh.jpeg" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px"/>
+                <img src="./docs/imgs/gzh.jpeg" width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px"/>
                 <br />
                 <sub style="font-size:14px"><b>微信公众号</b></sub>
             </a>
         </td>
     </tr>
 </table>
+
+# 截图
+
+![](./docs/imgs/preview.png)
+
+![](./docs/imgs/preview2.png)
