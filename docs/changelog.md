@@ -225,3 +225,25 @@
 3. Fixed an issue where dragging image files directly onto nodes would upload them to the attachment directory instead of the image directory.
 4. Fixed an issue where modifying a mind map file's name after saving a preview image would cause the preview image file to change, but the path in the mind map data was not updated, resulting in the preview image not being displayed.
 5. Fixed the issue where modifying the folder name would cause all files in the folder to be accidentally modified, resulting in inaccessible files;
+
+# v0.1.8  
+**New Features:**  
+1. Intercept all shortcut keys to prevent them from not taking effect.  
+2. After installing and enabling the pdf-plus plugin, the behavior of ignoring the Ctrl key when clicking on PDF file links.  
+3. Improved the prompt message for embedded previews when no preview image is available.  
+4. Optimized the theme sidebar style; automatically locate the currently used theme when opening the theme sidebar.  
+5. Hyperlink popup - Obsidian files: Support filtering file types.  
+6. Automatic focus on the search box after it is displayed.  
+7. Adapted to the situation where the tab title bar is closed.  
+8. For secondary and lower-level nodes with default text, double-clicking to edit the node will automatically select all text by default.  
+9. Right-click menu:  
+   - Height adapts to the current window height, scrolls up and down based on mouse position to display all menu items, consistent with Obsidian's right-click menu behavior.  
+   - Optimized the issue of incomplete display of secondary menus at the edges.  
+
+**Fixes:**  
+1. Exporting data with tags, notes, summaries, and icons as md files:  
+   - Escape code block syntax in note content to avoid conflicts.  
+   - Fixed indentation issues when converting this content into code blocks.  
+   - Fixed the issue of data loss when re-importing the file.  
+2. Fixed style abnormalities in various radio button groups.  
+3. Fixed abnormal prompt text for the save button in the upper right corner.
